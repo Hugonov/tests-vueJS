@@ -1,2 +1,2 @@
 # tests-vueJS
- Découverte vue.JS
+ Découverte vue.JS - Exemple avec une billeterie.
